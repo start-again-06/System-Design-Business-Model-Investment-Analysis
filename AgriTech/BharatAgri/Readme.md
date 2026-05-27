@@ -238,18 +238,14 @@ graph TD
 
 ## Competitive Advantage Formula
 
-## Competitive Advantage Formula
-Advisory Intelligence (AI + 150+ Human Agronomists)
-+
-Subscription-First Business Model
-+
-15% Yield Improvement Guarantee
-+
-Weekly Personalized Plans
-+
-Data Network Effects (1.2M+ subscribers)
-=
-Defensible Precision Agronomy Platform
+| Component | Description |
+|-----------|-------------|
+| + | Advisory Intelligence (AI + 150+ Human Agronomists) |
+| + | Subscription-First Business Model |
+| + | 15% Yield Improvement Guarantee |
+| + | Weekly Personalized Plans |
+| + | Data Network Effects (1.2M+ subscribers) |
+| **=** | **Defensible Precision Agronomy Platform** |
 
 text
 
