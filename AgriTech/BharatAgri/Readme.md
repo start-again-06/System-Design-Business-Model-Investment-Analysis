@@ -238,8 +238,8 @@ graph TD
 
 ## Competitive Advantage Formula
 
-| Component | Description |
-|-----------|-------------|
+| Component | 
+|-----------|
 | Advisory Intelligence (AI + 150+ Human Agronomists) |
 | Subscription-First Business Model |
 | 15% Yield Improvement Guarantee |
