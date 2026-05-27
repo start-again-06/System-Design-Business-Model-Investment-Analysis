@@ -198,7 +198,7 @@ graph TD
     subgraph "Option 3: Embedded Credit"
         C1[Partner with NBFCs]
         C2[Use crop plan data for underwriting]
-        C3[Launch "pay at harvest" option]
+        C3[Launch - pay at harvest option]
     end
     
     subgraph "Option 4: Platform Play"
